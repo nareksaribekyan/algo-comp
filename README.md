@@ -1,4 +1,3 @@
-ayb-advanced-2014
+Algorithm Competition Materials
 =================
 
-Ayb School Advanced Informatics Source Repository
